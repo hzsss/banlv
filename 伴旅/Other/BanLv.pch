@@ -1,0 +1,26 @@
+//
+//  BanLv.pch
+//  伴旅
+//
+//  Created by 灿灿 on 2017/12/5.
+//  Copyright © 2017年 灿灿. All rights reserved.
+//
+
+#ifndef BanLv_pch
+#define BanLv_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* BanLv_pch */
+
+#ifdef __OBJC__
+
+#import <Foundation/Foundation.h>
+#import <Hyphenate/Hyphenate.h>
+#import "HZSButton.h"
+#import "TKAlertCenter.h"
+#import "MBProgressHUD+Add.h"
+#import "UIView+HZSExtension.h"
+#define MAS_SHORTHAND
+#endif

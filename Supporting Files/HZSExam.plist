@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>In the experiment we kept a watchful eye _____ the developments and recorded every detail. </string>
+		<key>labelA</key>
+		<string>in</string>
+		<key>labelB</key>
+		<string>at</string>
+		<key>labelC</key>
+		<string>for</string>
+		<key>labelD</key>
+		<string>on</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>There’s little chance that mankind would ________ a nuclear war. </string>
+		<key>labelA</key>
+		<string>retain</string>
+		<key>labelB</key>
+		<string>endure</string>
+		<key>labelC</key>
+		<string>maintain</string>
+		<key>labelD</key>
+		<string>survive</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Nuclear science be developed to benefit the people ________ harm them. </string>
+		<key>labelA</key>
+		<string>more than</string>
+		<key>labelB</key>
+		<string>other than</string>
+		<key>labelC</key>
+		<string>rather than</string>
+		<key>labelD</key>
+		<string>better than</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>The French pianist who had been praised very highly ________ to be a great disappointment. </string>
+		<key>labelA</key>
+		<string>turned up</string>
+		<key>labelB</key>
+		<string>turned in</string>
+		<key>labelC</key>
+		<string>turned out</string>
+		<key>labelD</key>
+		<string>turned down</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Many difficulties have ________ as a result of the change over to a new type of fuel.</string>
+		<key>labelA</key>
+		<string>risen</string>
+		<key>labelB</key>
+		<string>arisen</string>
+		<key>labelC</key>
+		<string>raised</string>
+		<key>labelD</key>
+		<string>arrived</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>He made such a ________ contribution to the university that they are naming one of the new buildings after him.</string>
+		<key>labelA</key>
+		<string>genuine</string>
+		<key>labelB</key>
+		<string>minimum</string>
+		<key>labelC</key>
+		<string>modest</string>
+		<key>labelD</key>
+		<string>generous</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>He made such a ________ contribution to the university that they are naming one of the new buildings after him.</string>
+		<key>labelA</key>
+		<string>gaps</string>
+		<key>labelB</key>
+		<string>intervals</string>
+		<key>labelC</key>
+		<string>length</string>
+		<key>labelD</key>
+		<string>distance</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>We regret to inform you that the materials you ordered are ________.</string>
+		<key>labelA</key>
+		<string>out of work</string>
+		<key>labelB</key>
+		<string>out of stock</string>
+		<key>labelC</key>
+		<string>out of reach</string>
+		<key>labelD</key>
+		<string>out of practice</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Our company decided to ________ the contract because a number of the conditions in it had not been met. </string>
+		<key>labelA</key>
+		<string>destroy</string>
+		<key>labelB</key>
+		<string>resist</string>
+		<key>labelC</key>
+		<string>assume</string>
+		<key>labelD</key>
+		<string>cancel</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>She is ________ a musician than her brother. </string>
+		<key>labelA</key>
+		<string>much of</string>
+		<key>labelB</key>
+		<string>much as</string>
+		<key>labelC</key>
+		<string>more of</string>
+		<key>labelD</key>
+		<string>more as</string>
+	</dict>
+</array>
+</plist>

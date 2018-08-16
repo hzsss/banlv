@@ -1,0 +1,18 @@
+PODS:
+  - Masonry (1.1.0)
+  - pop (1.0.10)
+  - Reveal-SDK (11)
+
+DEPENDENCIES:
+  - Masonry
+  - pop
+  - Reveal-SDK
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  pop: 82ca6b068ce9278fd350fd9dd09482a0ce9492e6
+  Reveal-SDK: 7fa13d04bb55db61ff2342a990cf731d5159361d
+
+PODFILE CHECKSUM: 9e906106cab08f23c3d382734341a7609286de24
+
+COCOAPODS: 1.4.0.beta.1
